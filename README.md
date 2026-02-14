@@ -1,105 +1,52 @@
-<!-- ================= HEADER ================= -->
-<h1 align="center">👋 Hi, I'm Mottakin</h1>
-<h3 align="center">🚀 Flutter Application Developer | AI Explorer | Cyber Dev</h3>
+<!-- ================= ULTRA COMPACT ELITE FLUTTER README ================= -->
+
+<h2 align="center">📱 Mottakin | Elite Flutter Application Developer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FF9F&center=true&vCenter=true&width=500&lines=Flutter+Developer;Building+Optimized+Apps;AI+%7C+Cyber+%7C+Mobile+Systems" />
+⚡ Optimized Mobile Apps • 🤝 Team Collaborator • 🚀 Quick Learner • 🧩 Clean Architecture Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mottakin890.portfolio" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=mottakin890.portfolio" />
+<img src="https://img.shields.io/badge/Focus-Flutter%20Development-00FF9F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Architecture-Clean%20%2B%20Bloc-00FF9F?style=flat-square"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&color=00FF9F&center=true&vCenter=true&width=420&lines=Scalable+Flutter+Applications;Bloc+State+Management;High+Performance+Mobile+Apps"/>
 </p>
 
 ---
 
-<!-- ================= ABOUT ================= -->
-## 👨‍💻 About Me
-
-- 📱 Currently Developing: **Songs Streaming Flutter Application**
-- 🧠 Focus: **Clean Architecture • Bloc • Scalable Flutter Apps**
-- ⚙️ Learning: **CI/CD • Performance Optimization**
-- 🤖 Exploring: **AI Integrated Mobile Systems**
-- 💬 Ask Me About: `Flutter` • `Bloc` • `Supabase` • `Firebase` • `REST APIs`
-- 🌙 Fun Fact: Night's Watch cloaks were IKEA rugs 😄
+### 👨‍💻 PROFILE SNAPSHOT
+- 📱 Building: **Songs Streaming Flutter Application**
+- ⚙️ Stack: Flutter • Dart • Bloc • Firebase • Supabase • REST APIs
+- 🤝 Strength: Team Collaboration • Agile Workflow • Clean Code
+- ⚡ Traits: Quick Learner • Performance Focused • Problem Solver
 
 ---
 
-<!-- ================= CONTACT ================= -->
-## 📬 Connect With Me
+### ⚒️ FLUTTER STACK
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,postman,git,github,androidstudio,figma,linux" />
+</p>
 
+---
+
+### 📊 PERFORMANCE
+<p align="center">
+<img height="130" src="https://github-readme-stats.vercel.app/api?username=Mottakin890&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="130" src="https://streak-stats.demolab.com?user=Mottakin890&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+---
+
+### 📬 CONTACT
 <p align="center">
 <a href="mailto:pedro.sales.mottakinulalam@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=red"/>
 </a>
-
 <a href="https://www.linkedin.com/in/mottakinul-alam/">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-</p>
-
----
-
-<!-- ================= FLUTTER STACK ================= -->
-## ⚒️ Flutter Development Stack
-
-### 📱 Mobile Development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-### ⚙️ Backend & APIs
-<p align="center">
-<img src="https://skillicons.dev/icons?i=firebase,supabase,postman" />
-</p>
-
-### 💻 Programming
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,java" />
-</p>
-
-### 🛠️ Tools & Environment
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,figma,androidstudio,linux,ubuntu,windows" />
-</p>
-
----
-
-<!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Performance
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Mottakin890&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mottakin890&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
----
-
-<!-- ================= DEV QUOTE ================= -->
-## 🧠 Developer Inspiration
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
-
----
-
-<!-- ================= CONTRIBUTION ================= -->
-## 🐍 Contribution Activity
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-<!-- ================= SUPPORT ================= -->
-## ☕ Support My Work
-
-<p align="center">
-<a href="https://ko-fi.com/mottakinulalammottakin">
-<img height="60" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3"/>
 </a>
 </p>
