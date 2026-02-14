@@ -51,18 +51,6 @@
 
 </div>
 
----
-
-## ⚡ GitHub Stats (Cyber Mode)
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mottakin890&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mottakin890&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
-
----
-
 ## 📊 Contribution Streak
 <div align="center">
 
