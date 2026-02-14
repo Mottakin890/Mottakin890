@@ -19,6 +19,11 @@
 ---
 
 ### 👨‍💻 PROFILE SNAPSHOT
+<p align="center">
+<img height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mottakin890&theme=chartreuse-dark&hide_border=true"/>
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mottakin890&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
 - 📱 Building: **Songs Streaming Flutter Application**
 - ⚙️ Stack: Flutter • Dart • Bloc • Firebase • Supabase • REST APIs
 - 🤝 Strength: Team Collaboration • Agile Workflow • Clean Code
