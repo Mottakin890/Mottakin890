@@ -10,7 +10,7 @@
   <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=mottakin890.portfolio"/>
   <img alt="focus" src="https://img.shields.io/badge/Focus-Flutter%20Development-00FF9F?style=flat-square"/>
   <img alt="architecture" src="https://img.shields.io/badge/Architecture-Clean%20%2B%20Bloc-00FF9F?style=flat-square"/>
-  <img alt="wakatime" src="https://wakatime.com/badge/user/09cbff96-1d1a-4f50-a61c-b2948f79c549.svg"/>
+  <img alt="wakatime" src="https://wakatime.com/badge/user/7d11c1fe-fb55-45a9-9f9f-7df0c23756b8.svg"/>
 </p>
 
 <p align="center">
