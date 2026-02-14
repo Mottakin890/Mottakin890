@@ -35,7 +35,6 @@
 
 ### 📊 PERFORMANCE
 <p align="center">
-<img height="130" src="https://github-readme-stats.vercel.app/api?username=Mottakin890&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 <img height="130" src="https://streak-stats.demolab.com?user=Mottakin890&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
