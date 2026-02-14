@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mottakin890.portfolio" />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00FF9F&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+Cyber+Portfolio;I'm+Mottakin+🚀;Flutter+%7C+AI+%7C+Cyber+Dev" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00FF9F&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+Portfolio;I'm+Mottakin+🚀;Flutter+%7C+AI+%7C+Cyber+Dev" />
 </h1>
 
-<h3 align="center">💀 Hacker Style • 🤖 AI Developer • 🧩 Flutter Specialist</h3>
+<h3 align="center">Passionate on developing optimized softwares using Flutter</h3>
 
 ---
 
@@ -30,7 +30,6 @@
 
 ---
 
-## 🌐 Connect
 <div align="center">
 
 <a href="mailto:pedro.sales.mottakinulalam@gmail.com">
@@ -45,7 +44,7 @@
 
 ---
 
-## ⚒️ Flutter • AI • Cyber Tech Stack
+## ⚒️ Tech Stack
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,python,typescript,java,git,github,figma,androidstudio,firebase,supabase,postman,ubuntu,linux,windows" />
@@ -67,7 +66,7 @@
 ## 📊 Contribution Streak
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mottakin890&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?username=Mottakin890&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
@@ -80,18 +79,6 @@
 
 </div>
 
----
-
-## 🎯 Currently Playing Spotify
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31h3dummyspotifyid&cover_image=true&theme=novatorem"/>
-
-</div>
-
-⚠️ Replace `dummyspotifyid` with your Spotify User ID
-
----
 
 ## ☕ Support My Work
 <div align="center">
