@@ -1,37 +1,33 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mottakin890.portfolio" />
+<!-- ================= HEADER ================= -->
+<h1 align="center">👋 Hi, I'm Mottakin</h1>
+<h3 align="center">🚀 Flutter Application Developer | AI Explorer | Cyber Dev</h3>
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00FF9F&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+Portfolio;I'm+Mottakin+🚀;Flutter+%7C+AI+%7C+Cyber+Dev" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FF9F&center=true&vCenter=true&width=500&lines=Flutter+Developer;Building+Optimized+Apps;AI+%7C+Cyber+%7C+Mobile+Systems" />
+</p>
 
-<h3 align="center">Passionate on developing optimized softwares using Flutter</h3>
-
----
-
-## 🧠 Developer Quote
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-</div>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mottakin890.portfolio" />
+</p>
 
 ---
 
+<!-- ================= ABOUT ================= -->
 ## 👨‍💻 About Me
-<div align="center">
 
-🔭 Building **Songs Streaming Application**  
-🌱 Learning **CI/CD Pipelines & Bloc Architecture**  
-🤖 Exploring **AI + Futuristic Systems**  
-💬 Ask me about **Flutter • Bloc • Firebase • Supabase • APIs**  
-⚡ Fun Fact: Night's Watch cloaks were IKEA rugs 😄  
-
-</div>
+- 📱 Currently Developing: **Songs Streaming Flutter Application**
+- 🧠 Focus: **Clean Architecture • Bloc • Scalable Flutter Apps**
+- ⚙️ Learning: **CI/CD • Performance Optimization**
+- 🤖 Exploring: **AI Integrated Mobile Systems**
+- 💬 Ask Me About: `Flutter` • `Bloc` • `Supabase` • `Firebase` • `REST APIs`
+- 🌙 Fun Fact: Night's Watch cloaks were IKEA rugs 😄
 
 ---
 
-<div align="center">
+<!-- ================= CONTACT ================= -->
+## 📬 Connect With Me
 
+<p align="center">
 <a href="mailto:pedro.sales.mottakinulalam@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=red"/>
 </a>
@@ -39,40 +35,71 @@
 <a href="https://www.linkedin.com/in/mottakinul-alam/">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-
-</div>
+</p>
 
 ---
 
-## ⚒️ Tech Stack
-<div align="center">
+<!-- ================= FLUTTER STACK ================= -->
+## ⚒️ Flutter Development Stack
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,typescript,java,git,github,figma,androidstudio,firebase,supabase,postman,ubuntu,linux,windows" />
+### 📱 Mobile Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
-</div>
+### ⚙️ Backend & APIs
+<p align="center">
+<img src="https://skillicons.dev/icons?i=firebase,supabase,postman" />
+</p>
 
-## 📊 Contribution Streak
-<div align="center">
+### 💻 Programming
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,typescript,java" />
+</p>
 
+### 🛠️ Tools & Environment
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,figma,androidstudio,linux,ubuntu,windows" />
+</p>
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+## 📊 GitHub Performance
+
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=Mottakin890&theme=chartreuse-dark&hide_border=true"/>
+</p>
 
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mottakin890&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+</p>
 
 ---
 
-## 🐍 Contribution Snake (Hacker Animation)
-<div align="center">
+<!-- ================= DEV QUOTE ================= -->
+## 🧠 Developer Inspiration
 
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
+
+<!-- ================= CONTRIBUTION ================= -->
+## 🐍 Contribution Activity
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"/>
+</p>
 
-</div>
+---
 
-
+<!-- ================= SUPPORT ================= -->
 ## ☕ Support My Work
-<div align="center">
 
+<p align="center">
 <a href="https://ko-fi.com/mottakinulalammottakin">
 <img height="60" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3"/>
 </a>
-
-</div>
+</p>
