@@ -1,6 +1,6 @@
 <!-- ================= ULTRA COMPACT ELITE FLUTTER README ================= -->
 
-<h2 align="center">📱 Mottakin | Elite Flutter Application Developer</h2>
+<h2 align="center">Mottakin | Flutter & Full-Stack Developer</h2>
 
 <p align="center">
 ⚡ Optimized Mobile Apps • 🤝 Team Collaborator • 🚀 Quick Learner • 🧩 Clean Architecture Enthusiast
@@ -21,8 +21,8 @@
 
 ### 👨‍💻 PROFILE SNAPSHOT
 
-- 📱 Building: **Songs Streaming Flutter Application**
-- ⚙️ Stack: Flutter • Dart • Bloc • Firebase • Supabase • REST APIs
+- 📱 Building: **Secured and Optimised Flutter Application**
+- ⚙️ Stack: Flutter • Dart • Bloc • Firebase • Supabase • REST APIs • Nest.js • Node.js/TypeScript
 - 🤝 Strength: Team Collaboration • Agile Workflow • Clean Code
 - ⚡ Traits: Quick Learner • Performance Focused • Problem Solver
 
