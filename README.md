@@ -30,7 +30,7 @@
 
 ### ⚒️ FLUTTER STACK
 <p align="center">
-  <img alt="skills" src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,postman,git,github,androidstudio,figma,linux"/>
+  <img alt="skills" src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,postman,git,github,androidstudio,figma,linux,typescript,postgresql,nestjs"/>
 </p>
 
 ---
